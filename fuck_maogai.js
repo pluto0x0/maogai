@@ -2,7 +2,7 @@
 // @name         Fuck You Maogai
 // @namespace    http://tampermonkey.net/
 // @match        *://learn.intl.zju.edu.cn/*
-// @version      0.2
+// @version      1.0
 // @description  ha ha ha ha ha ha ha ha ha ha ha !
 // @author       NaN
 // @icon         https://img0.baidu.com/it/u=1318541766,1632186299&fm=253&app=120&f=JPEG?w=480&h=600
